@@ -28,3 +28,9 @@ Immer her damit. Im Zweifel von Unwissenheit meinerseits ausgehen.
 ## Geplante Features
 * Englische Übersetzung
 * Support für weitere Zug um Zug Versionen
+
+## Beispielbilder
+ ![layout](https://github.com/Jonaes/zug-um-zug-scoreboard/blob/main/example-images/IMG_20210120_112149050.jpg "Layout")
+  ![layout](https://github.com/Jonaes/zug-um-zug-scoreboard/blob/main/example-images/IMG_20210120_112217799.jpg "Layout")
+   ![layout](https://github.com/Jonaes/zug-um-zug-scoreboard/blob/main/example-images/IMG_20210120_112245695.jpg "Layout")
+    ![layout](https://github.com/Jonaes/zug-um-zug-scoreboard/blob/main/example-images/IMG_20210120_112257820.jpg "Layout")
